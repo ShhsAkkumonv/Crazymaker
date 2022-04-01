@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/Crazy.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="Crazy.jpg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Crazy" src="https://img.shields.io/badge/ShhsAkkumonv-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -85,11 +85,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![BADBMODER](https://github.com/BADBMODER.png?size=100)](https://github.com/BADBMODER) 
+  [[![BADBMODER](Crazy.jpg?size=100)](https://github.com/BADBMODER) 
 
 [BADBMODER](https://github.com/BADBMODER)
 
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
 
