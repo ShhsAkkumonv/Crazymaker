@@ -2,16 +2,16 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/fe0c46a730ac0e507dd57.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="https://telegra.ph/file/Crazy.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Badboy" src="https://img.shields.io/badge/BADBMODER-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Crazy" src="https://img.shields.io/badge/ShhsAkkumonv-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BADBMODER"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Crazy"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make it public
+Project created by <a href="https://github.com/CRAZY MAKER">CRAZY MAKER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -54,7 +54,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShhsAkkumonv/Crazymaker)
      </div>
 <br>
 <br >
